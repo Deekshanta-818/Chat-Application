@@ -10,6 +10,7 @@ const TextContainer = ({ users }) => (
       <h1 style={{color:'lightblue'}} >Realtime Chat Application <span role="img" aria-label="emoji">💬</span></h1>
       <h2 style={{color:'yellow'}} >Created with React, Express, Node and Socket.IO <span role="img" aria-label="emoji">❤️</span></h2>
       <h2 style={{color:'red'}} >Let's have a chat<span role="img" aria-label="emoji">⬅️</span></h2>
+      <h2 style={{color:'royalblue'}}>By: Deekshanta <span role='img' aria-label='emoji' >💥</span> Paudel</h2>
     </div>
     {
       users
